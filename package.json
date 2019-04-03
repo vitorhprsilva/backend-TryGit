@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorhprsilva/backend-TryGit.git"
+  },
+  "author": "Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorhprsilva/backend-TryGit/issues"
+  },
+  "homepage": "https://github.com/vitorhprsilva/backend-TryGit#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "firebase-admin": "^7.2.0"
+  }
+}
