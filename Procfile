@@ -1,1 +1,1 @@
-web: npm '.\src\index.js'
+web: yarn '.\src\index.js'
